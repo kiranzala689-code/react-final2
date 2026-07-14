@@ -1,0 +1,8 @@
+.nav1{
+ background: #020024;
+background: linear-gradient(90deg,rgb(3, 0, 54) 2%, rgba(9, 121, 102, 1) 2%, rgba(30, 143, 230, 1) 85%);
+}
+.main{
+    background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 52, 121, 1) 6%, rgba(0, 212, 255, 1) 100%);
+}

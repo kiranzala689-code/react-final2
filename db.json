@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "studentName": "kiran",
+      "subject": "javascript",
+      "marks": "78",
+      "examType": "Offline Exam",
+      "id": "MjMup3nn3GQ"
+    },
+    {
+      "studentName": "alpesh",
+      "subject": "react js",
+      "marks": "87",
+      "examType": "Offline Exam",
+      "id": "Xm9wawclUuI"
+    },
+    {
+      "studentName": "jaymish",
+      "subject": "javascript",
+      "marks": "98",
+      "examType": "Online Exam",
+      "id": "K7yI3ZF6kfg"
+    },
+    {
+      "studentName": "harshit",
+      "subject": "react js",
+      "marks": "54",
+      "examType": "Online Exam",
+      "id": "rzqhiMeyohw"
+    },
+    {
+      "studentName": "rohit",
+      "subject": "html",
+      "marks": "67",
+      "examType": "Offline Exam",
+      "id": "ujM8mx_UmQg"
+    },
+    {
+      "studentName": "ashik",
+      "subject": "html",
+      "marks": "67",
+      "examType": "Online Exam",
+      "id": "EgV-5INvseQ"
+    },
+    {
+      "studentName": "harshil",
+      "subject": "node js",
+      "marks": "78",
+      "examType": "Offline Exam",
+      "id": "NBW0OIQqYIU"
+    },
+    {
+      "studentName": "rahul",
+      "subject": "bootstrap",
+      "marks": "67",
+      "examType": "Online Exam",
+      "id": "i_0p6mdK9As"
+    },
+    {
+      "studentName": "kiran",
+      "subject": "react js",
+      "marks": "78",
+      "examType": "Online Exam",
+      "id": "97pC_6o2k0k"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
