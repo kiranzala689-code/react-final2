@@ -1,3 +1,11 @@
+ video link: https://drive.google.com/file/d/1jvGCh9z1A-uPj46UzvvMV6tO92i9EJDY/view?usp=drive_link
+
+ screenshots: 1 nav and student form ::<img width="1365" height="283" alt="Screenshot 2026-07-14 145144" src="https://github.com/user-attachments/assets/630608f4-48b6-42ed-92ad-0f18d1b61a40" />
+screenshot 2 :: student data::<img width="1347" height="507" alt="Screenshot 2026-07-14 145212" src="https://github.com/user-attachments/assets/ad736ffe-027d-4061-a634-493832a49331" />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
